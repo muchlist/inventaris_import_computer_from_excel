@@ -1,0 +1,4 @@
+user_name = "12123123"
+password = "Pururururu"
+file_name = "cctv.xlsx"
+base_url = "http://localhost:5000"
